@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "rss": "https://내아이디.github.io/리포지토리명/news.xml",
+  "servers": [
+    {
+      "id": "my_friend_server",
+      "name": "지인 전용 서버 이름",
+      "description": "우리들만의 마인크래프트 서버입니다!",
+      "icon": "https://내아이디.github.io/리포지토리명/server-icon.png",
+      "address": "서버주소:포트",
+      "minecraftVersion": "1.20.1",
+      "type": "Release",
+      "mainServer": true,
+      "modules": [
+        {
+          "id": "forge-version",
+          "name": "Forge 47.2.0",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 0,
+            "MD5": "",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+          }
+        }
+      ]
+    }
+  ]
+}
