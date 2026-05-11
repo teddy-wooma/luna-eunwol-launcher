@@ -11,37 +11,34 @@
 <copyright>ⓒ 2025. Mystic Red Space. All rights reserved.</copyright>
 
 <item>
-<title>2026-05-11 런처 베타 오픈</title>
+<title>런처 베타 오픈</title>
 <link>https://mysticred.space/notice/1129</link>
 <description><![CDATA[
-<p>MRS 서버의 새로운 시즌이 오픈되었습니다.</p>
-<p>하단의 [서버 접속 방법]과 [모드팩 설치 방법]을 참고하셔서 서버를 이용해주시기 바랍니다.</p>
+<p>은월마을의 마을원들만을 위한 전용 접속기 [은월런처] 를 개발하였습니다.</p>
+<p>마을 공지사항, 런처 업데이트 사항을 해당 뉴스페이지에 꾸준히 업데이트 하겠습니다.</p>
 <hr />
-<p><strong>[2026-5 서버 정보]</strong></p>
+<p><strong>[런처 베이스 정보]</strong></p>
 <ul>
-<li>시즌 시작: 2026.05.08</li>
-<li>모드팩: All the Mods 10: To the Sky</li>
-<li>모드팩 버전: 2.0.2</li>
-<li>마인크래프트 버전: 1.21.1</li>
-<li>NeoForge 버전: 21.1.221</li>
-<li>호환되는 Java 버전: 25</li>
+<li>모드로더 : 페브릭 (0.19.2)</li>
+<li>모드팩 버전: eunwol_1.0.0</li>
+<li>마인크래프트 버전: 1.21.10</li>
+<li>호환되는 Java 버전: 21</li>
 </ul>
 <hr />
-<p><strong>[서버 접속 방법]</strong></p>
-<p>- 아래 모드팩 설치 방법에 따라 모드팩을 설치하신 뒤 서버에 접속해주시기 바랍니다.</p>
-<p>- 서버 주소는 모드팩을 설치하시면 자동으로 등록되어 있습니다. (play.mysticred.space)</p>
+<p><strong>[은월런처 사용방법]</strong></p>
+<p>- 이보다 더 쉬울수는 없다고 생각합니다!</p>
+<p>- 아무것도 고민하지 마시고, 그저 [ PLAY ] 버튼을 누르기만 하시면 됩니다!</p>
 <hr />
-<p><strong>[모드팩 설치 (수동 설치)]</strong></p>
-<p>- <strong>프리즘 런처</strong>를 설치합니다.</p>
-<p>- <strong><a href="https://cdn.mysticred.space/modpack/ATM10SKY_MRS.zip">[여기]</a></strong>에서 zip 파일을 다운로드합니다.</p>
-<p>- 런처 실행 후 인스턴스 추가 -> 불러오기 -> 다운로드한 zip 선택</p>
-<p>- 자바 25 설치 및 메모리 8192MB 이상 할당 권장</p>
-<p>서버 접속에 어려움이 있으시면 <strong><a href="https://discord.gg/Z8j6ahF4MJ">디스코드 고객센터</a></strong>로 문의바랍니다.</p>
+<p><strong>[모드 추가]</strong></p>
+<p>- <strong>해당 런처는 추가적인 모드 설치를 전재로 만들어지지 않았습니다.</p>
+<p>- 추가를 희망하는 모드가 있다면 마을의 [매니저] 이상 관리자에게 문의 부탁드립니다.</p>
+<p>- 임의로 추가한 모드에 의해 런처가 망가지거나 서버에서 불이익을 겪게되는경우, 관리자는 아무런 책임을 지지 않습니다.</p>
+<p>- 그럼에도 불구하고 모드를 임의로 추가하고 싶으시다면</p>
+<p>- 설정 -> 모드 -> 하단으로 쭉 스크롤 하신 후 [모드 추가] 버튼을 클릭하시면 됩니다.</p>
 ]]></description>
 <category>공지사항</category>
 <dc:creator>관리자</dc:creator>
-<guid isPermaLink="true">https://mysticred.space/notice/1129</guid>
-<pubDate>Fri, 08 May 2026 21:06:52 +0900</pubDate>
+<pubDate>Mon, 11 May 2026 19:04:55 +0900</pubDate>
 </item>
 
 <item>
