@@ -1,0 +1,76 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>은월마을 루나월드 전용 접속기</title>
+<link>https://discord.gg/m63U3trM/</link>
+<description/>
+<atom:link href="https://teddy-wooma.github.io/luna-eunwol-launcher/rss" rel="self" type="application/rss+xml"/>
+<language>ko</language>
+<pubDate>Mon, 11 May 2026 18:42:04 +0900</pubDate>
+<generator>Rhymix</generator>
+<copyright>ⓒ 2025. Mystic Red Space. All rights reserved.</copyright>
+<item>
+<title>2026-05-11 런처 베타 오픈</title>
+<link>https://mysticred.space/notice/1129</link>
+<description><p><span style="font-size:14px;">MRS 서버의 새로운 시즌이 오픈되었습니다.</span></p> <p><span style="font-size:14px;">하단의 [서버 접속 방법]과 [모드팩 설치 방법]을 참고하셔서 서버를 이용해주시기 바랍니다.</span><br /> &nbsp;</p> <hr /> <p>&nbsp;</p> <p><span style="font-size:18px;"><strong>[2026-5 서버 정보]</strong></span></p> <p><span style="font-size:14px;">- 시즌 시작: 2026.05.08</span></p> <p><span style="font-size:14px;">- 모드팩: All the Mods 10: To the Sky</span></p> <p><span style="font-size:14px;">- 모드팩 버전: 2.0.2</span></p> <p><span style="font-size:14px;">- 마인크래프트 버전: 1.21.1</span></p> <p><span style="font-size:14px;">- NeoForge 버전: 21.1.221</span></p> <p><span style="font-size:14px;">- 호환되는 Java 버전: 25</span></p> <p>&nbsp;</p> <hr /> <p><br /> <span style="font-size:18px;"><strong>[서버 접속 방법]</strong></span></p> <p><span style="font-size:14px;">- 아래 모드팩 설치 방법에 따라 모드팩을 설치하신 뒤 서버에 접속해주시기 바랍니다.</span></p> <p><span style="font-size:14px;">- 서버 주소는 모드팩을 설치하시면 자동으로 등록되어 있습니다. (play.mysticred.space)</span></p> <p>&nbsp;</p> <hr /> <p>&nbsp;</p> <p><span style="font-size:18px;"><strong>[모드팩 설치 (수동 설치)]</strong></span></p> <p><br /> <span style="font-size:14px;">-&nbsp;<strong><u><a href="https://prismlauncher.org/">[프리즘 런처]</a></u></strong>를 설치합니다.</span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">-&nbsp;<u><strong><a href="https://cdn.mysticred.space/modpack/ATM10SKY_MRS.zip">[여기]</a></strong></u>에서 zip 파일을 다운로드합니다.</span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">- 런처를 실행하고, 좌측 상단의 &quot;인스턴스 추가&quot; 버튼을 누릅니다.</span></p> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2025/11/14/be6e56c201bd97218a9f404d49717534.png" style="height: 61px; width: 480px;" /></p> <p>&nbsp;</p> <p><span style="font-size:14px;">- 좌측 메뉴에서 &quot;불러오기&quot;를 누르고, 우측 &quot;찾아보기&quot; 버튼을 눌러 위에서 다운로드한 zip 파일을 선택합니다. 그리고 아래 &quot;확인&quot; 버튼을 누릅니다.</span></p> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2025/11/14/e183eef3883961b0a419ae23a0743311.png" style="height: 362px; width: 640px;" /></p> <p>&nbsp;</p> <p><span style="font-size:14px;">- 모드팩 아이콘을 우클릭하고 &quot;편집&quot;을 누릅니다.</span></p> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2025/11/14/f419f41b24b76bc8d449197d874f1544.png" /></p> <p>&nbsp;</p> <p><span style="font-size:14px;">- 좌측 메뉴에서 &quot;설정&quot;을 누른 뒤, &quot;메모리&quot;를 체크하고 &quot;최대 메모리 할당량&quot;을 8192MB 이상으로 조정합니다.</span></p> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2025/11/14/e0df78226269d76e122cf446d19903c5.png" style="height: 214px; width: 640px;" /></p> <p>&nbsp;</p> <p>- <a href="https://adoptium.net/temurin/releases?version=25&amp;os=any&amp;arch=any"><u><strong>[여기]</strong></u></a>에서 컴퓨터의 운영체제에 맞게 Java 25를 설치합니다.</p> <p>&nbsp;</p> <p>- &quot;Java 설치본&quot;을 체크한 뒤, &quot;자동 감지...&quot; 버튼을 누르고 버전 25.x.x Java를 선택합니다. &quot;Java 호환성 검사 무시&quot;를 체크합니다.</p> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2026/04/11/78a5f3eda036209b0b137fa6540b4dc6.png" style="height: 288px; width: 640px;" /></p> <p>&nbsp;</p> <p>- &quot;Java 인수&quot;를 체크하고 다음 내용을 복사 붙여넣기합니다. &quot;확인&quot;을 눌러 창을 닫습니다.</p> <blockquote> <pre> -XX:+UseZGC -XX:+UseCompactObjectHeaders</pre> </blockquote> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2026/04/11/843d3a4c6521bf0ec356f1ffd20adaf0.png" style="height: 87px; width: 640px;" /></p> <p>&nbsp;</p> <p>-&nbsp;<span style="font-size:14px;">런처 메인 화면에서 모드팩 아이콘을 더블클릭하여 게임을 시작합니다. 끝!</span></p> <p>&nbsp;</p> <hr /> <p>&nbsp;</p> <p><span style="font-size:14px;">서버 접속에 어려움이 있으시면 부담없이 댓글 또는 <u><strong><a href="https://discord.gg/Z8j6ahF4MJ">디스코드 고객센터</a></strong></u>로 문의해주시기 바랍니다.</span></p> <p><span style="font-size:14px;">감사합니다.</span></p></description>
+<category>공지사항</category>
+<category>공지</category>
+<dc:creator>관리자</dc:creator>
+<guid isPermaLink="true">https://mysticred.space/notice/1129</guid>
+<comments>https://mysticred.space/notice/1129#comment</comments>
+<pubDate>Fri, 08 May 2026 21:06:52 +0900</pubDate>
+</item>
+
+
+
+
+
+<item>
+<title>2026-3 서버 모드팩 추천 (마감)</title>
+<link>https://mysticred.space/notice/1088</link>
+<description><p><span style="font-size:14px;">안녕하세요, Mystic Red Space입니다.</span></p> <p><span style="font-size:14px;">아래와 같이 2026-3 서버 모드팩 추천을 진행하고자 하니 참고 부탁드립니다.</span></p> <p>&nbsp;</p> <p><span style="font-size:14px;"><strong>[2026-3 서버 모드팩 추천]</strong></span></p> <p><span style="font-size:14px;">- <strong>한 사람당 하나의 모드팩</strong>만 추천하실 수 있습니다.</span></p> <p><span style="font-size:14px;">- 아래 조건에 <u><strong>모두</strong></u> 부합하는 모드팩만 추천이 가능합니다.</span></p> <ol> <li> <p><span style="font-size:14px;">&nbsp; 마인크래프트 버전은 <u><strong>1.16.5, 1.20.x, 1.21.x</strong></u>&nbsp;만 가능합니다.</span></p> </li> <li> <p><span style="font-size:14px;">&nbsp; <strong>Forge, Fabric, NeoForge 중 하나의 모드로더</strong>를 사용해야 합니다.</span></p> </li> <li> <p><span style="font-size:14px;">&nbsp; <strong>최근 1년 이내</strong>에 MRS 서버에서 구동된 이력이 <u><strong>없어야</strong></u> 합니다.</span></p> </li> </ol> <p><span style="font-size:14px;">- 모드팩 추천 설문조사는 <strong>디스코드에서 계정을 인증한 유저만 참여 가능</strong>합니다.</span></p> <p><span style="font-size:14px;">- 모드팩 추천&nbsp;설문조사를 제출한 뒤에는 <strong>내용 수정이 불가능</strong>합니다.</span></p> <p><strong><span style="font-size:14px;">- 추천한 모드팩이&nbsp;서버 플레이가 어려울 정도로 심각한 문제를 포함하고 있을 경우 해당 모드팩을 추천한 유저는 <span style="color:#e74c3c;"><u>향후 1년간 모드팩 추천이 불가능합니다</u></span>.</span></strong></p> <p><span style="font-size:14px;"><strong>- 모드팩 추천 링크</strong>:&nbsp;<a href="https://dyno.gg/form/176ca292"><u>https://dyno.gg/form/176ca292</u></a></span></p> <p><span style="font-size:14px;"><strong>- 모드팩 추천 기간</strong>: 03.08<strong>(일) ~ <u><strong>03.11(수)</strong></u></strong></span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">감사합니다.</span></p></description>
+<category>공지사항</category>
+<category>투표</category>
+<dc:creator>관리자</dc:creator>
+<guid isPermaLink="true">https://mysticred.space/notice/1088</guid>
+<comments>https://mysticred.space/notice/1088#comment</comments>
+<pubDate>Sun, 08 Mar 2026 20:20:06 +0900</pubDate>
+</item>
+
+<item>
+<title>2026-2 서버 임시 점검 안내 (03.07 21:45 완료)</title>
+<link>https://mysticred.space/notice/1085</link>
+<description><p><span style="font-size:16px;">안녕하세요, Mystic Red Space입니다.</span></p> <p>&nbsp;</p> <p><span style="font-size:16px;">서버 이전 작업을 위해 아래와 같이 임시 점검을 진행할 예정이오니 서버 이용에 참고 부탁드립니다.</span><br /> &nbsp;</p> <p><span style="font-size:16px;">- 일시: 03.07 (토) 18:30 ~&nbsp;<s>20:00</s>&nbsp;22:00</span></p> <p><span style="font-size:16px;">- 내용: 서버 이전</span></p> <p><span style="font-size:16px;">- 참고사항: 예상 종료 시간보다 점검이 조기에 종료되거나 지연될 수 있습니다. 중요 변동사항이 있는 경우 추가 공지로 안내드리겠습니다.</span></p> <p>&nbsp;</p> <p><span style="font-size:16px;">감사합니다.</span></p></description>
+<category>공지사항</category>
+<category>점검</category>
+<dc:creator>관리자</dc:creator>
+<guid isPermaLink="true">https://mysticred.space/notice/1085</guid>
+<comments>https://mysticred.space/notice/1085#comment</comments>
+<pubDate>Sat, 07 Mar 2026 18:13:31 +0900</pubDate>
+</item>
+
+<item>
+<title>2026-2 서버 모드팩 투표 (마감) + 투표 결과</title>
+<link>https://mysticred.space/notice/1080</link>
+<description><p><span style="font-size:14px;"><strong>[2026-2 서버 모드팩 투표 결과]</strong></span></p> <p><span style="font-size:14px;"><strong>▶</strong></span><strong>All the Mods 9</strong></p> <p><img alt="image.png" src="https://mysticred.space/files/attach/images/2026/02/14/90d701a311b89ba2d9352721522c4331.png" /></p> <p>&nbsp;</p> <hr /> <p>&nbsp;</p> <p><span style="font-size:14px;">안녕하세요, Mystic Red Space입니다.</span></p> <p><span style="font-size:14px;">아래와 같이 2026-2 서버 모드팩 투표를 진행하고자 하니 참고 부탁드립니다.</span></p> <p>&nbsp;</p> <p><span style="font-size:14px;"><strong>[2026-2 서버 모드팩 투표]</strong></span></p> <p><span style="font-size:14px;"><strong>- <a href="https://discord.com/channels/330997213255827457/871587934128701480" rel="noreferrer noopener" role="button" tabindex="0" target="_blank" title="계정 인증 (https://discord.com/channels/330997213255827457/871587934128701480)">계정 인증</a></strong>을 진행한 유저만 투표가 가능합니다.</span></p> <p><span style="font-size:14px;"><strong>- 모드팩 투표 링크: <a href="https://discord.gg/Z8j6ahF4MJ"><u>MRS 디스코드 #설문조사</u></a></strong></span></p> <p><span style="font-size:14px;"><strong>- 모드팩 투표 기간:</strong>&nbsp;02.12(목) ~ 02.14(토)</span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">감사합니다.</span></p></description>
+<category>공지사항</category>
+<category>투표</category>
+<dc:creator>관리자</dc:creator>
+<guid isPermaLink="true">https://mysticred.space/notice/1080</guid>
+<comments>https://mysticred.space/notice/1080#comment</comments>
+<pubDate>Thu, 12 Feb 2026 00:03:00 +0900</pubDate>
+</item>
+
+<item>
+<title>2026-1 서버 오픈 (Enigmatica 6: Expert)</title>
+<link>https://mysticred.space/notice/1073</link>
+<description><p><span style="font-size:14px;">MRS 서버의 새로운 시즌이 오픈되었습니다.</span></p> <p><span style="font-size:14px;"><u><strong><a href="https://mysticred.space/notice/330">[서버 접속 가이드]</a></strong></u>를 참고하셔서 계정 인증 및 전용 런처 설치를 완료하시면 서버에 접속하실 수 있습니다.</span></p> <p>&nbsp;</p> <hr /> <p>&nbsp;</p> <p><span style="font-size:18px;"><strong>[2026-1 서버 정보]</strong></span></p> <p><span style="font-size:14px;">- 시즌 시작: 2026.01.20</span></p> <p><span style="font-size:14px;">- 모드팩: <strong>Enigmatica 6: Expert</strong></span></p> <p><span style="font-size:14px;">- 모드팩 버전: <strong>1.12.0</strong></span></p> <p><span style="font-size:14px;">- 마인크래프트 버전: 1.16.5</span></p> <p><span style="font-size:14px;">- Forge 버전: </span>36.2.39</p> <p><span style="font-size:14px;">- Java 버전: 8</span></p> <p>&nbsp;</p> <hr /> <p>&nbsp;</p> <p><span style="font-size:14px;">서버 접속에 어려움이 있으시면 부담없이 댓글 또는 <u><strong><a href="https://discord.gg/Z8j6ahF4MJ">디스코드 고객센터</a></strong></u>로 문의해주시기 바랍니다.</span></p> <p><span style="font-size:14px;">감사합니다.</span></p></description>
+<category>공지사항</category>
+<category>공지</category>
+<dc:creator>관리자</dc:creator>
+<guid isPermaLink="true">https://mysticred.space/notice/1073</guid>
+<comments>https://mysticred.space/notice/1073#comment</comments>
+<pubDate>Tue, 20 Jan 2026 00:43:13 +0900</pubDate>
+</item>
+</channel>
+</rss>
