@@ -6,7 +6,7 @@
 <description>은월마을 루나월드 서버 공지사항 피드입니다.</description>
 <atom:link href="https://teddy-wooma.github.io/luna-eunwol-launcher/rss" rel="self" type="application/rss+xml"/>
 <language>ko</language>
-<pubDate>Mon, 11 May 2026 18:42:04 +0900</pubDate>
+<pubDate>Mon, 11 May 2026 19:05:55 +0900</pubDate>
 <generator>Rhymix</generator>
 <copyright>ⓒ 2025. Mystic Red Space. All rights reserved.</copyright>
 
@@ -14,64 +14,31 @@
 <title>런처 베타 오픈</title>
 <link>https://mysticred.space/notice/1129</link>
 <description><![CDATA[
-<p>은월마을의 마을원들만을 위한 전용 접속기 [은월런처] 를 개발하였습니다.</p>
-<p>마을 공지사항, 런처 업데이트 사항을 해당 뉴스페이지에 꾸준히 업데이트 하겠습니다.</p>
+<p>은월마을 주민분들만을 위한 전용 접속기 [은월런처]를 개발하였습니다.</p>
+<p>마을 공지사항 및 런처 업데이트 사항을 본 뉴스 페이지에 꾸준히 게시하겠습니다.</p>
 <hr />
 <p><strong>[런처 베이스 정보]</strong></p>
 <ul>
-<li>모드로더 : 페브릭 (0.19.2)</li>
+<li>모드로더: 패브릭 (0.19.2)</li>
 <li>모드팩 버전: eunwol_1.0.0</li>
 <li>마인크래프트 버전: 1.21.10</li>
 <li>호환되는 Java 버전: 21</li>
 </ul>
 <hr />
-<p><strong>[은월런처 사용방법]</strong></p>
-<p>- 이보다 더 쉬울수는 없다고 생각합니다!</p>
+<p><strong>[은월런처 사용 방법]</strong></p>
+<p>- 이보다 더 쉬울 수는 없다고 생각합니다!</p>
 <p>- 아무것도 고민하지 마시고, 그저 [ PLAY ] 버튼을 누르기만 하시면 됩니다!</p>
 <hr />
-<p><strong>[모드 추가]</strong></p>
-<p>- <strong>해당 런처는 추가적인 모드 설치를 전재로 만들어지지 않았습니다.</p>
+<p><strong>[모드 추가 관련 안내]</strong></p>
+<p>- 본 런처는 개별적인 모드 추가 설치를 <strong>전제</strong>로 제작되지 않았습니다.</p>
 <p>- 추가를 희망하는 모드가 있다면 마을의 [매니저] 이상 관리자에게 문의 부탁드립니다.</p>
-<p>- 임의로 추가한 모드에 의해 런처가 망가지거나 서버에서 불이익을 겪게되는경우, 관리자는 아무런 책임을 지지 않습니다.</p>
-<p>- 그럼에도 불구하고 모드를 임의로 추가하고 싶으시다면</p>
-<p>- 설정 -> 모드 -> 하단으로 쭉 스크롤 하신 후 [모드 추가] 버튼을 클릭하시면 됩니다.</p>
+<p>- 임의로 추가한 모드로 인해 런처 오류가 발생하거나 서버 이용 시 불이익을 <strong>겪게 되는</strong> 경우, 관리자는 책임을 지지 않습니다.</p>
+<p>- 그럼에도 불구하고 모드를 임의로 추가하고 싶으시다면,</p>
+<p>- [설정] -> [모드] -> 하단으로 끝까지 스크롤 하신 후 [모드 추가] 버튼을 클릭하시면 됩니다.</p>
 ]]></description>
 <category>공지사항</category>
 <dc:creator>관리자</dc:creator>
 <pubDate>Mon, 11 May 2026 19:04:55 +0900</pubDate>
-</item>
-
-<item>
-<title>2026-3 서버 모드팩 추천 (마감)</title>
-<link>https://mysticred.space/notice/1088</link>
-<description><![CDATA[
-<p>안녕하세요, Mystic Red Space입니다. 2026-3 서버 모드팩 추천을 진행합니다.</p>
-<p><strong>[추천 조건]</strong></p>
-<ol>
-<li>마인크래프트 버전: 1.16.5, 1.20.x, 1.21.x</li>
-<li>로더: Forge, Fabric, NeoForge 중 택 1</li>
-<li>최근 1년 이내 구동 이력이 없는 모드팩</li>
-</ol>
-<p>추천 기간: 03.08(일) ~ 03.11(수)</p>
-]]></description>
-<category>투표</category>
-<dc:creator>관리자</dc:creator>
-<guid isPermaLink="true">https://mysticred.space/notice/1088</guid>
-<pubDate>Sun, 08 Mar 2026 20:20:06 +0900</pubDate>
-</item>
-
-<item>
-<title>2026-2 서버 임시 점검 안내</title>
-<link>https://mysticred.space/notice/1085</link>
-<description><![CDATA[
-<p>서버 이전 작업을 위해 임시 점검을 진행합니다.</p>
-<p>- 일시: 03.07 (토) 18:30 ~ 22:00</p>
-<p>- 내용: 서버 이전 및 최적화</p>
-]]></description>
-<category>점검</category>
-<dc:creator>관리자</dc:creator>
-<guid isPermaLink="true">https://mysticred.space/notice/1085</guid>
-<pubDate>Sat, 07 Mar 2026 18:13:31 +0900</pubDate>
 </item>
 
 </channel>
