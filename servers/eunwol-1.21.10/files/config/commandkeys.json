@@ -38,6 +38,122 @@
               "delayTicks": 0
             }
           ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.1",
+            "limitKeyName": "key.keyboard.left.control"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/home h1",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.2",
+            "limitKeyName": "key.keyboard.left.control"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/home h2",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.3",
+            "limitKeyName": "key.keyboard.left.control"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/home h3",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "VETO",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "maxRepeats": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.4",
+            "limitKeyName": "key.keyboard.left.control"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/home h4",
+              "delayTicks": 0
+            }
+          ]
         }
       ]
     }

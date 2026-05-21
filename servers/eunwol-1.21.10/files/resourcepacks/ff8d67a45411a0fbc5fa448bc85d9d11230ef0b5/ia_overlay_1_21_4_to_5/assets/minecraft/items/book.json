@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/book"},"entries":[{"threshold":10000,"model":{"type":"model","model":"custom_guis:item/ia_auto/transparent_texture"}},{"threshold":10001,"model":{"type":"model","model":"item/book"}}]},"oversized_in_gui":true}

@@ -1,0 +1,20 @@
+type = user_variables
+
+variable {
+  name = pause_screen_원격
+  value = False
+  reset_on_launch = false
+}
+
+variable {
+  name = pause_screen_button_원격
+  value = False
+  reset_on_launch = false
+}
+
+variable {
+  name = main_screen_skin_baby
+  value = False
+  reset_on_launch = false
+}
+

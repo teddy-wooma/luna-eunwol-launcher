@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "진짜마지막라스트_집 1채",
+    "current": "진짜마지막라스트_집 1채",
+    "boxes": [
+      {
+        "pos1": [
+          -3195,
+          62,
+          -2589
+        ],
+        "pos2": [
+          -3195,
+          62,
+          -2589
+        ],
+        "name": "진짜마지막라스트_집 1채"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

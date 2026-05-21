@@ -91,7 +91,7 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "C:\\Users\\kali-main\\AppData\\Roaming\\.minecraft\\schematics",
+    "customSchematicBaseDirectory": "C:\\Users\\kali-main\\Documents\\MultiMC\\instances\\SUB\\.minecraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick",
@@ -117,7 +117,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": "COMMA"
+      "keys": ""
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -156,7 +156,7 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "M"
+      "keys": "N"
     },
     "openGuiMaterialList": {
       "keys": "M,L"

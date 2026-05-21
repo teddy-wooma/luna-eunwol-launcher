@@ -1,9 +1,0 @@
-{
-    "error": { "category": "master", "sounds": ["sound:effect/error_effect"] },
-    "wallhamu": { "category": "master", "sounds": ["sound:bgm/wallhamu"] },
-    "forest": { "category": "master", "sounds": ["sound:bgm/forest"] },
-    "swanlake": { "category": "master", "sounds": ["sound:bgm/swanlake"] },
-    "button_click": { "category": "master", "sounds": ["sound:effect/button_click"] },
-    "high_pitch_sepak": { "category": "master", "sounds": ["sound:effect/high_pitch_sepak"] },
-    "fairy_speak": { "category": "master", "sounds": ["sound:effect/fairy_speak"] }
-}
