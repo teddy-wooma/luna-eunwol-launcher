@@ -1,0 +1,15 @@
+{
+  "defaultProfile": {
+    "enable": [],
+    "disable": []
+  },
+  "servers": {
+    "lunaworld.kr": {
+      "enable": [
+        "fabric",
+        "file/ff8d67a45411a0fbc5fa448bc85d9d11230ef0b5"
+      ],
+      "disable": []
+    }
+  }
+}

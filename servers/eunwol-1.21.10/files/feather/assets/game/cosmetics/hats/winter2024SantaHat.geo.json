@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.winter2024SantaHat",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-5, 30, -5], "size": [10, 3, 10], "pivot": [0, 31.5, 0], "rotation": [0, 0, 7], "uv": [0, 0]},
+						{"origin": [-5, 30, -5], "size": [10, 3, 10], "inflate": 0.1, "pivot": [0, 31.5, 0], "rotation": [0, 0, 7], "uv": [0, 40]},
+						{"origin": [-3.63439, 32.47764, -4], "size": [8, 3, 8], "pivot": [0.36561, 33.97764, 0], "rotation": [0, 0, 12], "uv": [0, 29]},
+						{"origin": [-1.58507, 31.94693, -2.5], "size": [7, 5, 5], "pivot": [2.91493, 33.94693, 0], "rotation": [0, 0, -10.5], "uv": [32, 13]},
+						{"origin": [5.41493, 29.94693, -1.5], "size": [2, 5, 3], "pivot": [2.91493, 33.94693, 0], "rotation": [0, 0, -10.5], "uv": [32, 31]},
+						{"origin": [5.13754, 27.63601, -2], "size": [4, 4, 4], "pivot": [7.13754, 29.63601, 0], "rotation": [0, 0, -4], "uv": [32, 23]},
+						{"origin": [5.13754, 27.63601, -2], "size": [4, 4, 4], "inflate": 0.1, "pivot": [7.13754, 29.63601, 0], "rotation": [0, 0, -4], "uv": [46, 35]}
+					]
+				}
+			]
+		}
+	]
+}

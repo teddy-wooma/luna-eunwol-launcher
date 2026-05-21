@@ -1,0 +1,65 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.flameFragsFireRing",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_body",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "bone4",
+					"parent": "anchor_body",
+					"pivot": [-1.7106, 17.25391, 2.19538],
+					"rotation": [92.26579, 15.69986, 16.32495]
+				},
+				{
+					"name": "bone6",
+					"parent": "bone4",
+					"pivot": [0.663, 17.53046, 3.14538],
+					"cubes": [
+						{"origin": [-9.09196, 2.89176, 3.14538], "size": [31, 29, 0], "pivot": [0.663, 17.53046, 3.14538], "rotation": [0, 0, -15], "uv": [2, 32], "mirror": true}
+					]
+				},
+				{
+					"name": "bone7",
+					"parent": "bone4",
+					"pivot": [-4.51552, 14.36381, 1.14538],
+					"cubes": [
+						{"origin": [-15.12231, -2.1875, 1.24538], "size": [31, 29, 0], "pivot": [-4.51552, 14.36381, 1.14538], "rotation": [0, 0, 171], "uv": [2, 32], "mirror": true}
+					]
+				},
+				{
+					"name": "bone5",
+					"parent": "anchor_body",
+					"pivot": [-1.7106, 17.25391, 2.19538],
+					"rotation": [137.26579, 15.69986, 16.32495]
+				},
+				{
+					"name": "bone2",
+					"parent": "bone5",
+					"pivot": [0.663, 17.53046, 3.14538],
+					"cubes": [
+						{"origin": [-9.09196, 2.89176, 3.14538], "size": [31, 29, 0], "pivot": [0.663, 17.53046, 3.14538], "rotation": [0, 0, -15], "uv": [2, 32], "mirror": true}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "bone5",
+					"pivot": [-4.51552, 14.36381, 1.14538],
+					"cubes": [
+						{"origin": [-15.12231, -2.1875, 1.24538], "size": [31, 29, 0], "pivot": [-4.51552, 14.36381, 1.14538], "rotation": [0, 0, 171], "uv": [2, 32], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}
