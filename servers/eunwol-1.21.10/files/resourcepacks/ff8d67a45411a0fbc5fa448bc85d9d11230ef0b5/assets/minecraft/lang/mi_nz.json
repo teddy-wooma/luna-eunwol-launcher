@@ -1,0 +1,23 @@
+{
+	"container.barrel":"통",
+	"container.chest":"상자",
+	"container.chestDouble":"큰 상자",
+	"container.crafting":"제작",
+	"container.enderchest":"엔더 상자",
+	"container.inventory":"",
+	"container.shulkerBox":"셜커 상자",
+	"gui.advancements":"도전 과제",
+	"gui.stats":"통계",
+	"item.color":"",
+	"item.dyed":"",
+	"menu.disconnect":"§f§r§c여정 떠나기§f§r",
+	"menu.feedback":"피드백",
+	"menu.options":"설정",
+	"menu.playerReporting":"플레이어 신고",
+	"menu.reportBugs":"버그 신고",
+	"menu.returnToGame":"§f§r",
+	"menu.sendFeedback":"피드백 보내기",
+	"menu.server_links":"서버 링크",
+	"menu.shareToLan":"LAN에 월드 열기",
+	"merchant.trades":""
+}
