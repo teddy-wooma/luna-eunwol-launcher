@@ -1,0 +1,10 @@
+{
+  "states": {},
+  "scaleLayers": true,
+  "hideDuringCombat": false,
+  "armorConstraints": [
+    {
+      "slot": "boots"
+    }
+  ]
+}

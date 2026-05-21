@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.summer2024NemoHat",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-5.5, 27.1, -5.6], "size": [11, 5, 12], "uv": [2, 2]},
+						{"origin": [-1.5, 27.5, 6.9], "size": [3, 5, 3], "uv": [0, 19]},
+						{"origin": [-1.5, 26.5, 9.9], "size": [3, 7, 4], "uv": [0, 0]},
+						{"origin": [-3.5, 27.1, 5.4], "size": [7, 6, 3], "uv": [37, 1]},
+						{"origin": [-4.5, 32.1, -3.6], "size": [9, 5, 10], "uv": [2, 21]},
+						{"origin": [-3.5, 32.1, -5.6], "size": [7, 5, 2], "uv": [14, 36]},
+						{"origin": [4.5, 25.9, -1.6], "size": [6, 6, 2], "pivot": [4, 28.9, -0.6], "rotation": [0, -45, 0], "uv": [50, 10]},
+						{"origin": [-10.5, 25.9, -1.6], "size": [6, 6, 2], "pivot": [-4, 28.9, -0.6], "rotation": [0, 45, 0], "uv": [48, 47]},
+						{"origin": [-1, 33.1, -2.6], "size": [2, 7, 10], "uv": [0, 36]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,451 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.winter2024IceDragonWings.idle": {
+			"loop": true,
+			"animation_length": 2.3333,
+			"bones": {
+				"wingtip1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, -75],
+							"easing": "easeOutSine"
+						},
+						"1.5833": {
+							"vector": [0, 0, 40],
+							"easing": "easeOutSine"
+						},
+						"2.3333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.5833": {
+							"vector": [-0.2, 0, 0]
+						},
+						"2.3333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.625": {
+							"vector": [0, 0, -37],
+							"easing": "easeOutSine"
+						},
+						"1.2917": {
+							"vector": [0, 0, 27.5],
+							"easing": "easeOutSine"
+						},
+						"1.875": {
+							"vector": [0, 0, 24.42],
+							"easing": "easeInOutSine"
+						},
+						"2.3333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.625": {
+							"vector": [0, 0, 37],
+							"easing": "easeOutSine"
+						},
+						"1.2917": {
+							"vector": [0, 0, -27.5],
+							"easing": "easeOutSine"
+						},
+						"1.875": {
+							"vector": [0, 0, -24.42],
+							"easing": "easeInOutSine"
+						},
+						"2.3333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"wingtip2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, 75],
+							"easing": "easeOutSine"
+						},
+						"1.5833": {
+							"vector": [0, 0, -40],
+							"easing": "easeOutSine"
+						},
+						"2.3333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0.3, -0.1, 0]
+						},
+						"1.5833": {
+							"vector": [0.3, 0, 0]
+						},
+						"2.3333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0.3, 0.9, 0]
+						},
+						"1.5833": {
+							"vector": [0.5, 0, 0]
+						},
+						"2.3333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.7917": {
+							"vector": [-0.3, 0.9, 0]
+						},
+						"1.5833": {
+							"vector": [-0.5, 0, 0]
+						},
+						"2.3333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.winter2024IceDragonWings.walk": {
+			"loop": true,
+			"animation_length": 1.8333,
+			"bones": {
+				"wingtip1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0, 0, -75],
+							"easing": "easeOutSine"
+						},
+						"1.2083": {
+							"vector": [0, 0, 40],
+							"easing": "easeOutSine"
+						},
+						"1.8333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.2083": {
+							"vector": [-0.2, 0, 0]
+						},
+						"1.8333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4167": {
+							"vector": [0, 0, -37],
+							"easing": "easeOutSine"
+						},
+						"0.9167": {
+							"vector": [0, 0, 27.5],
+							"easing": "easeOutSine"
+						},
+						"1.5": {
+							"vector": [0, 0, 24.42],
+							"easing": "easeInOutSine"
+						},
+						"1.8333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4167": {
+							"vector": [0, 0, 37],
+							"easing": "easeOutSine"
+						},
+						"0.9167": {
+							"vector": [0, 0, -27.5],
+							"easing": "easeOutSine"
+						},
+						"1.5": {
+							"vector": [0, 0, -24.42],
+							"easing": "easeInOutSine"
+						},
+						"1.8333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"wingtip2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0, 0, 75],
+							"easing": "easeOutSine"
+						},
+						"1.2083": {
+							"vector": [0, 0, -40],
+							"easing": "easeOutSine"
+						},
+						"1.8333": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0.3, -0.1, 0]
+						},
+						"1.2083": {
+							"vector": [0.3, 0, 0]
+						},
+						"1.8333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0.3, 0.9, 0]
+						},
+						"1.2083": {
+							"vector": [0.5, 0, 0]
+						},
+						"1.8333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [-0.3, 0.9, 0]
+						},
+						"1.2083": {
+							"vector": [-0.5, 0, 0]
+						},
+						"1.8333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.winter2024IceDragonWings.fly": {
+			"loop": true,
+			"animation_length": 0.7917,
+			"bones": {
+				"wingtip1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0, 0, -75],
+							"easing": "easeOutSine"
+						},
+						"0.5": {
+							"vector": [0, 0, 40],
+							"easing": "easeOutSine"
+						},
+						"0.7917": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [-0.2, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.1667": {
+							"vector": [0, 0, -37],
+							"easing": "easeOutSine"
+						},
+						"0.3333": {
+							"vector": [0, 0, 27.5],
+							"easing": "easeOutSine"
+						},
+						"0.5833": {
+							"vector": [0, 0, 24.42],
+							"easing": "easeInOutSine"
+						},
+						"0.7917": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"wing3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.1667": {
+							"vector": [0, 0, 37],
+							"easing": "easeOutSine"
+						},
+						"0.3333": {
+							"vector": [0, 0, -27.5],
+							"easing": "easeOutSine"
+						},
+						"0.5833": {
+							"vector": [0, 0, -24.42],
+							"easing": "easeInOutSine"
+						},
+						"0.7917": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"wingtip2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0, 0, 75],
+							"easing": "easeOutSine"
+						},
+						"0.5": {
+							"vector": [0, 0, -40],
+							"easing": "easeOutSine"
+						},
+						"0.7917": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0.3, -0.1, 0]
+						},
+						"0.5": {
+							"vector": [0.3, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0.3, 0.9, 0]
+						},
+						"0.5": {
+							"vector": [0.5, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [-0.3, 0.9, 0]
+						},
+						"0.5": {
+							"vector": [-0.5, 0, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.winter2024IceDragonWings.swim.null": {
+			"loop": true,
+			"animation_length": 1.6667
+		}
+	},
+	"geckolib_format_version": 2
+}

@@ -1,0 +1,43 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.winter2024GreenSantaHat",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"rotation": [0, 0, -1]
+				},
+				{
+					"name": "bone2",
+					"parent": "anchor_head",
+					"pivot": [7.23754, 29.63601, 0],
+					"rotation": [0, 0, -6],
+					"cubes": [
+						{"origin": [-4.9, 30, -5], "size": [10, 3, 10], "pivot": [0.1, 31.5, 0], "rotation": [0, 0, 7], "uv": [0, 51]}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "bone2",
+					"pivot": [0.23754, 32.43601, 0],
+					"rotation": [90.99998, -87, -83.99998],
+					"cubes": [
+						{"origin": [-3.53439, 32.27764, -4], "size": [8, 3, 8], "pivot": [0.46561, 33.77764, 0], "rotation": [0, 0, 12], "uv": [0, 0]},
+						{"origin": [-1.48507, 31.74693, -2.5], "size": [7, 5, 5], "pivot": [3.01493, 33.74693, 0], "rotation": [0, 0, -10.5], "uv": [0, 41]},
+						{"origin": [5.51493, 29.74693, -1.5], "size": [2, 5, 3], "pivot": [3.01493, 33.74693, 0], "rotation": [0, 0, -10.5], "uv": [0, 33]},
+						{"origin": [5.23754, 27.43601, -2], "size": [4, 4, 4], "pivot": [7.23754, 29.43601, 0], "rotation": [0, 0, -4], "uv": [30, 53]}
+					]
+				}
+			]
+		}
+	]
+}

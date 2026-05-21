@@ -1,0 +1,78 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.jan2025BlackHoleAura",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_body",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "bone3",
+					"parent": "anchor_body",
+					"pivot": [0.24167, 16.95167, 7],
+					"cubes": [
+						{
+							"origin": [-10.55333, 6.30167, 7],
+							"size": [20.59, 21.3, 0],
+							"uv": {
+								"north": {"uv": [40, 59], "uv_size": [29, 30]},
+								"east": {"uv": [40, 59], "uv_size": [0, 30]},
+								"south": {"uv": [69, 59], "uv_size": [29, 30]},
+								"west": {"uv": [69, 59], "uv_size": [0, 30]},
+								"up": {"uv": [40, 59], "uv_size": [29, 0]},
+								"down": {"uv": [69, 59], "uv_size": [29, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bone4",
+					"parent": "anchor_body",
+					"pivot": [0.30667, 16.24167, 6.25],
+					"cubes": [
+						{
+							"origin": [-11.05333, 4.88167, 6.25],
+							"size": [22.72, 22.72, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [32, 32]},
+								"east": {"uv": [0, 0], "uv_size": [0, 32]},
+								"south": {"uv": [32, 0], "uv_size": [32, 32]},
+								"west": {"uv": [32, 0], "uv_size": [0, 32]},
+								"up": {"uv": [0, 0], "uv_size": [32, 0]},
+								"down": {"uv": [32, 0], "uv_size": [32, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "anchor_body",
+					"pivot": [0.45167, 17.30667, 7.5],
+					"cubes": [
+						{
+							"origin": [-2.03333, 14.82167, 5.015],
+							"size": [4.97, 4.97, 4.97],
+							"uv": {
+								"north": {"uv": [104, 14], "uv_size": [7, 7]},
+								"east": {"uv": [97, 14], "uv_size": [7, 7]},
+								"south": {"uv": [118, 14], "uv_size": [7, 7]},
+								"west": {"uv": [111, 14], "uv_size": [7, 7]},
+								"up": {"uv": [104, 7], "uv_size": [7, 7]},
+								"down": {"uv": [111, 14], "uv_size": [7, -7]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
