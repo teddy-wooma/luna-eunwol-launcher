@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "https://teddy-wooma.github.io/luna-eunwol-launcher/rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "은월 루나월드 접속 테스트 서버",
       "description": "루나월드[은월마을 전용 접속기] (MC 1.21.10 / Fabric 0.19.2)",
       "icon": "https://cdn.discordapp.com/icons/1445413720544247902/0bf8908a2e8c7fd5cdc2822c716cfa44.webp?size=80&quality=lossless",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "lunaworld.kr",
       "minecraftVersion": "1.21.10",
       "discord": {
