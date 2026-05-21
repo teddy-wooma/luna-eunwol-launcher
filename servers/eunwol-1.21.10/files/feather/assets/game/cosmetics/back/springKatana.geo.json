@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.springKatana",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_body",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "root",
+					"parent": "anchor_body",
+					"pivot": [0, 24, 2],
+					"rotation": [0, -90, 135],
+					"cubes": [
+						{"origin": [-0.5, 27.52548, 9.05563], "size": [1, 2, 7], "uv": [36, 16]},
+						{"origin": [-1.5, 27.02548, 8.05563], "size": [3, 3, 1], "pivot": [0, 28.52548, 8.55563], "rotation": [0, 0, 45], "uv": [0, 0]},
+						{"origin": [0, 27.52548, -12.94437], "size": [0, 2, 21], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

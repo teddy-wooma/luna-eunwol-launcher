@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.face_hud_interface",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-5, 23, -7], "size": [10, 10, 0], "uv": [0, 16]},
+						{"origin": [5, 23, -7], "size": [6, 10, 0], "pivot": [5, 28, -7], "rotation": [0, -45, 0], "uv": [20, 16]},
+						{"origin": [-11, 23, -7], "size": [6, 10, 0], "pivot": [-5, 28, -7], "rotation": [0, 45, 0], "uv": [0, 26]}
+					]
+				}
+			]
+		}
+	]
+}

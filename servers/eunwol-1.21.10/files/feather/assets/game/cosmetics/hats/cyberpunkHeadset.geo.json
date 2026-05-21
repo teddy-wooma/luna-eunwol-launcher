@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.cyberpunkHeadset",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 32.5, -1], "size": [8, 2, 2], "uv": [0, 28]},
+						{"origin": [4, 27.5, -1], "size": [1, 6, 2], "uv": [32, 6]},
+						{"origin": [3.75, 29.5, -1.5], "size": [2, 3, 3], "uv": [0, 32]},
+						{"origin": [3.5, 24, -3], "size": [2, 6, 6], "uv": [0, 16]},
+						{"origin": [5.5, 25, -2], "size": [1, 4, 4], "uv": [20, 28]},
+						{"origin": [-6.5, 25, -2], "size": [1, 4, 4], "uv": [30, 28]},
+						{"origin": [-5.5, 24, -3], "size": [2, 6, 6], "uv": [16, 16]},
+						{"origin": [-5.5, 24, -6], "size": [1, 2, 3], "uv": [32, 14]},
+						{"origin": [-5.5, 24, -8], "size": [2, 2, 2], "uv": [32, 19]},
+						{"origin": [-5.1, 25, -8], "size": [2, 1, 2], "inflate": -0.3, "uv": [41, 11]},
+						{"origin": [-5.75, 29.5, -1.5], "size": [2, 3, 3], "uv": [32, 0]},
+						{"origin": [-5, 27.5, -1], "size": [1, 6, 2], "uv": [10, 32]}
+					]
+				}
+			]
+		}
+	]
+}

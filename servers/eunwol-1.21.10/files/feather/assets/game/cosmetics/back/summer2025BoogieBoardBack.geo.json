@@ -1,0 +1,65 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.summer2025BoogieBoardBack",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_body",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "root",
+					"parent": "anchor_body",
+					"pivot": [0, 24, 0],
+					"rotation": [0, 0, -45]
+				},
+				{
+					"name": "bone5",
+					"parent": "root",
+					"pivot": [-1.54975, 26.93654, 3.4],
+					"rotation": [0, 0, -45],
+					"cubes": [
+						{"origin": [-3.54975, 24.13654, 2.4], "size": [3, 4.4, 2], "inflate": -0.02, "uv": [0, 20]}
+					]
+				},
+				{
+					"name": "bone4",
+					"parent": "root",
+					"pivot": [-6.34975, 26.93654, 3.4],
+					"rotation": [0, 0, 45],
+					"cubes": [
+						{"origin": [-7.34975, 24.23654, 2.4], "size": [3, 4.3, 2], "inflate": -0.02, "uv": [12, 15]}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "root",
+					"pivot": [-3.94975, 22.73654, 3.4],
+					"cubes": [
+						{"origin": [-5.94975, 25.73654, 2.4], "size": [4, 3, 2], "uv": [0, 15]}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "root",
+					"pivot": [-3.94975, 22.73654, 3.4],
+					"cubes": [
+						{"origin": [-8.94975, 12.73654, 2.4], "size": [10, 13, 2], "uv": [0, 0]},
+						{"origin": [-8.94975, 10.73654, 2.4], "size": [3, 2, 2], "uv": [10, 21]},
+						{"origin": [-1.94975, 10.73654, 2.4], "size": [3, 2, 2], "uv": [20, 21]},
+						{"origin": [-4.44975, 11.23654, 2.4], "size": [3, 2, 2], "inflate": 0.04, "pivot": [-2.94975, 12.23654, 3.4], "rotation": [0, 0, 22.5], "uv": [22, 15]},
+						{"origin": [-6.44975, 11.23654, 2.4], "size": [3, 2, 2], "inflate": 0.02, "pivot": [-4.94975, 12.23654, 3.4], "rotation": [0, 0, -22.5], "uv": [24, 0]}
+					]
+				}
+			]
+		}
+	]
+}

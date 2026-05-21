@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.springBeanie",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-5, 31, -5], "size": [10, 2, 10], "uv": [0, 0]},
+						{"origin": [-4.5, 32.5, -4.5], "size": [9, 2, 9], "uv": [23, 19]}
+					]
+				}
+			]
+		}
+	]
+}

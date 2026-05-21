@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.fall2025KnittedHat",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "anchor_head",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 32.5, -4], "size": [8, 3, 8], "pivot": [0, 34, 0], "rotation": [-5, 0, 0], "uv": [0, 0]},
+						{"origin": [-3, 33, -3], "size": [6, 4, 9], "pivot": [0, 34.5, 0], "rotation": [-5, 0, 0], "uv": [0, 11]},
+						{"origin": [-5, 31, -5], "size": [10, 2, 1], "uv": [30, 11]},
+						{"origin": [-5, 31, 4], "size": [10, 2, 1], "uv": [30, 14]},
+						{"origin": [-5, 31, -4], "size": [1, 2, 8], "uv": [0, 24]},
+						{"origin": [4, 31, -4], "size": [1, 2, 8], "uv": [18, 24]}
+					]
+				}
+			]
+		}
+	]
+}
