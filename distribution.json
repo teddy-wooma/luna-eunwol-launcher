@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.2",
@@ -16799,7 +16799,7 @@
           "artifact": {
             "size": 38984,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/feather/configuration/profiles/default.json",
-            "MD5": "104cbd7e27855a97ef1a96a190eeccb6",
+            "MD5": "da37d09a06694aa37091c9b90b7ca4bb",
             "path": "feather/configuration/profiles/default.json"
           }
         },
@@ -16819,9 +16819,9 @@
           "name": "mc_options_v2.txt",
           "type": "File",
           "artifact": {
-            "size": 6243,
+            "size": 6272,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/feather/mc_options_v2.txt",
-            "MD5": "1373c92fabf3d738d101ac742ab0bfa7",
+            "MD5": "857509cecdd1b4964978d28db01f88ab",
             "path": "feather/mc_options_v2.txt"
           }
         },
@@ -16852,9 +16852,9 @@
           "name": "gui_override.json",
           "type": "File",
           "artifact": {
-            "size": 56,
+            "size": 57,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/feather/misc/gui_override.json",
-            "MD5": "1d40f42b98eed9bdacdf454280f13d2d",
+            "MD5": "f2abc5d828b81024c34157f5c11fa23e",
             "path": "feather/misc/gui_override.json"
           }
         },
@@ -16907,9 +16907,9 @@
           "name": "sidebar.json",
           "type": "File",
           "artifact": {
-            "size": 4513,
+            "size": 4512,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/feather/sidebar.json",
-            "MD5": "fc10765f349c422eec79f5385d66e548",
+            "MD5": "8e311608b2534a47479a2f8ebfce760c",
             "path": "feather/sidebar.json"
           }
         },
