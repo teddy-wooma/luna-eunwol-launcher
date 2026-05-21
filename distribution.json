@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.6",
   "rss": "https://teddy-wooma.github.io/luna-eunwol-launcher/rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "은월 루나월드 접속 테스트 서버",
       "description": "루나월드[은월마을 전용 접속기] (MC 1.21.10 / Fabric 0.19.2)",
       "icon": "https://cdn.discordapp.com/icons/1445413720544247902/0bf8908a2e8c7fd5cdc2822c716cfa44.webp?size=80&quality=lossless",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "address": "lunaworld.kr",
       "minecraftVersion": "1.21.10",
       "discord": {
@@ -295,6 +295,20 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:litematica:0.24.7@jar",
+          "name": "Litematica",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1673392,
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/fabricmods/optionaloff/litematica-fabric-1.21.10-0.24.7.jar",
+            "MD5": "9c9bcc4cd4e8002dceac51182b966bfe"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
