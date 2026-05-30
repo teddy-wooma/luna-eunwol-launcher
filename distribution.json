@@ -1,6 +1,6 @@
 {
   "version": "1.2.91",
-  "rss": "<LINK TO RSS FEED>",
+  "rss":"https://teddy-wooma.github.io/luna-eunwol-launcher/rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "eunwol (Minecraft 1.21.10)",
       "description": "eunwol Running Minecraft 1.21.10 (Fabric v0.19.2)",
       "icon": null,
-      "version": "1.0.4",
+      "version": "1.2.91",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.10",
       "discord": {
