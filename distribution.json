@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "rss":"https://teddy-wooma.github.io/luna-eunwol-launcher/rss",
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "eunwol (Minecraft 1.21.10)",
       "description": "eunwol Running Minecraft 1.21.10 (Fabric v0.19.2)",
       "icon": null,
-      "version": "1.3.1",
+      "version": "1.0.4",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.10",
       "discord": {
@@ -1088,14 +1088,14 @@
           }
         },
         {
-          "id": "2026.05.29.zip",
-          "name": "2026.05.29.zip",
+          "id": "EunwolVillagePack.zip",
+          "name": "EunwolVillagePack.zip",
           "type": "File",
           "artifact": {
             "size": 61847421,
-            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/resourcepacks/2026.05.29.zip",
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/resourcepacks/EunwolVillagePack.zip",
             "MD5": "e29e1bcf5d1541cfa2f2decaae9c19ea",
-            "path": "resourcepacks/2026.05.29.zip"
+            "path": "resourcepacks/EunwolVillagePack.zip"
           }
         },
         {
