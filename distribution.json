@@ -220,6 +220,20 @@
           }
         },
         {
+          "id": "com.gfactionbar:gfactionbar:2.0.0@jar",
+          "name": "GfActionbar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 24057,
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/fabricmods/optionaloff/gfactionbar-2.0.0.jar",
+            "MD5": "a9db3433f840aaa4857564eaf65fd3a2"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "dlovin.inventoryhud:inventoryhud:3.4.29@jar",
           "name": "Inventory HUD +",
           "type": "FabricMod",
