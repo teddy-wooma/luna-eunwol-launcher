@@ -1106,9 +1106,9 @@
           "name": "EunwolVillagePack.zip",
           "type": "File",
           "artifact": {
-            "size": 61968266,
+            "size": 61952266,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/resourcepacks/EunwolVillagePack.zip",
-            "MD5": "9cc2c95081a894f8b02e0e325d8350f7",
+            "MD5": "40c61a766bd4d9120d93f25c52e9fd2e",
             "path": "resourcepacks/EunwolVillagePack.zip"
           }
         },
