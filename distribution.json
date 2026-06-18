@@ -1102,6 +1102,28 @@
           }
         },
         {
+          "id": "resourcepackchecker.properties",
+          "name": "resourcepackchecker.properties",
+          "type": "File",
+          "artifact": {
+            "size": 542,
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/config/resourcepackchecker/resourcepackchecker.properties",
+            "MD5": "82ad847f040a05de46ad69f445fb3e20",
+            "path": "config/resourcepackchecker/resourcepackchecker.properties"
+          }
+        },
+        {
+          "id": "resourcepackchecker-fabric-1.21.10-1.2.2.jar",
+          "name": "resourcepackchecker-fabric-1.21.10-1.2.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 207984,
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/mods/resourcepackchecker-fabric-1.21.10-1.2.2.jar",
+            "MD5": "76dfb9b5f88389d122cb15f489254ab8",
+            "path": "mods/resourcepackchecker-fabric-1.21.10-1.2.2.jar"
+          }
+        },
+        {
           "id": "EunwolVillagePack.zip",
           "name": "EunwolVillagePack.zip",
           "type": "File",
