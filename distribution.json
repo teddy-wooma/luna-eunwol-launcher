@@ -12,7 +12,7 @@
       "name": "eunwol (Minecraft 1.21.10)",
       "description": "eunwol Running Minecraft 1.21.10 (Fabric v0.19.2)",
       "icon": null,
-      "version": "1.0.4",
+      "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.10",
       "discord": {
@@ -505,17 +505,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "commandkeys.json",
-          "name": "commandkeys.json",
-          "type": "File",
-          "artifact": {
-            "size": 4628,
-            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/config/commandkeys.json",
-            "MD5": "fd3e894aea7ba6ab6de7f7cecb1cf08a",
-            "path": "config/commandkeys.json"
           }
         },
         {
