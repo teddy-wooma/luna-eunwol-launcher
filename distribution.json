@@ -155,6 +155,19 @@
           }
         },
         {
+          "id": "generated.fabricmod:dawn-loader:0.2.4@jar",
+          "name": "Dawn Loader",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 72277,
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/fabricmods/optionalon/dawn-standalone.jar",
+            "MD5": "92bd43aa5d727bfc4545ebbdae089b13"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.138.0+1.21.10@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -188,19 +201,6 @@
             "size": 4476204,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/fabricmods/optionalon/fancymenu_fabric_3.8.2_MC_1.21.10.jar",
             "MD5": "c3d0a21575509402bb5a743ec4820eb5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:feather-loader:0.2.4@jar",
-          "name": "Feather Loader",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 57920,
-            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/fabricmods/optionalon/feather-standalone-0.2.4.jar",
-            "MD5": "11c07444bbfed41e934b78cb39a2a4e0"
           },
           "required": {
             "value": false
