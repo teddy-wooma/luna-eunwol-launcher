@@ -155,13 +155,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:dawn-loader:0.2.4@jar",
+          "id": "generated.fabricmod:dawn-loader:0.2.5@jar",
           "name": "Dawn Loader",
           "type": "FabricMod",
           "artifact": {
-            "size": 72277,
+            "size": 75955,
             "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/fabricmods/optionalon/dawn-standalone.jar",
-            "MD5": "92bd43aa5d727bfc4545ebbdae089b13"
+            "MD5": "52a7b43488755dc670c44acaa693e3ef"
           },
           "required": {
             "value": false
