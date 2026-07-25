@@ -1124,6 +1124,17 @@
           }
         },
         {
+          "id": "마을건축 최종.litematic",
+          "name": "마을건축 최종.litematic",
+          "type": "File",
+          "artifact": {
+            "size": 26087,
+            "url": "https://teddy-wooma.github.io/luna-eunwol-launcher/servers/eunwol-1.21.10/files/schematics/%EB%A7%88%EC%9D%84%EA%B1%B4%EC%B6%95%20%EC%B5%9C%EC%A2%85.litematic",
+            "MD5": "ca7953135bae6c1499344226284eca07",
+            "path": "schematics/마을건축 최종.litematic"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
